@@ -45,3 +45,14 @@ jupyter notebook
 ```
 
 [virtual environment]: https://docs.python.org/3/library/venv.html
+
+### On the HEP Cluster
+
+The HEP groups in the physics department run a computer cluster where you can
+run Jupyter Notebooks by logging into a JupyterHub with your UCT credentials:
+
+https://hep02.phy.uct.ac.za/jupyter
+
+At the moment, you will have to manually upload/download the examples to the
+hub. This is a new service, so please give it a try and shout if something does
+not work.
